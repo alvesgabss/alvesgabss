@@ -7,7 +7,7 @@
 <body>
   <header>
     <h1>Bem-vindo ao Meu Perfil! 👋</h1>
-    <p>Oi, sou o Gabriel Alves, um desenvolvedor web que adora criar soluções criativas e funcionais. Bem-vindo ao meu GitHub, onde compartilho meus projetos, pensamentos e jornada de aprendizado.</p>
+    <p>Oi, sou Gabriel Alves, um desenvolvedor web que adora criar soluções criativas e funcionais. Bem-vindo ao meu GitHub, onde compartilho meus projetos, pensamentos e jornada de aprendizado.</p>
   </header>
   
   <section>
