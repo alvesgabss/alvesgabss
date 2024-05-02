@@ -18,7 +18,7 @@
   <section>
     <h2>💼 Projetos</h2>
     <ul>
-      <li>Projeto de Desenvolvimento de Software Auxiliar na Didática do Ensino de Língua Portuguesa: Breve descrição do projeto.</li>
+      <li>Projeto de Desenvolvimento de Software Auxiliar na Didática do Ensino de Língua Portuguesa.</li>
       <li>Projeto Carro Didático para a matéria de Programação para Internet, IFRN Campus Macau.</li>
       <li>Projeto de Menu para jogo utilizando apenas JavaScript e a ferramenta do p5.js.</li>
     </ul>
