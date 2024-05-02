@@ -26,7 +26,7 @@
   
   <section>
     <h2>🌱 Sobre Mim</h2>
-    <p>Sou apaixonado por tecnologia e estou sempre em busca de novos desafios e oportunidades de aprendizado. Estou aberto para colaborações e adoro compartilhar conhecimento com outros desenvolvedores..</p>
+    <p>Estou sempre em busca de novos desafios e oportunidades de aprendizado. Estou aberto para colaborações e adoro compartilhar conhecimento com outros desenvolvedores.</p>
   </section>
   
   <section>
