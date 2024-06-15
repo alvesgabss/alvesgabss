@@ -12,7 +12,7 @@
   
   <section>
     <h2>🔧 Tecnologias</h2>
-    <p>Linguagens de Programação: HTML/CSS | JavaScript | Python.</p>
+    <p>Linguagens: HTML/CSS | JavaScript | Python.</p>
   </section>
   
   <section>
