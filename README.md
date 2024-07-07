@@ -6,33 +6,33 @@
 </head>
 <body>
   <header>
-    <h1>Bem-vindo ao Meu Perfil! 👋</h1>
-    <p>Oi, sou Gabriel Alves, um desenvolvedor web que adora criar soluções criativas e funcionais. Bem-vindo ao meu GitHub, onde compartilho meus projetos, pensamentos e jornada de aprendizado.</p>
+    <h1>Gabriel Alves! </h1>
+    <p>Um desenvolvedor de sistemas de soluções e contribuição para a ciência e tecnologia. Aqui é onde compartilho meus projetos, pensamentos e jornada de aprendizado.</p>
   </header>
   
   <section>
-    <h2>🔧 Tecnologias</h2>
-    <p>Linguagens: HTML/CSS | JavaScript | Python.</p>
+    <h2> Linguagens e Tecnologias</h2>
+    <p>HTML/CSS | JavaScript | Python.</p>
   </section>
   
   <section>
-    <h2>💼 Projetos</h2>
+    <h2>Projetos já realizados</h2>
     <ul>
-      <li>Projeto de Desenvolvimento de Software Auxiliar na Didática do Ensino de Língua Portuguesa.</li>
-      <li>Projeto Carro Didático para a matéria de Programação para Internet, IFRN Campus Macau.</li>
-      <li>Projeto de Menu para jogo utilizando apenas JavaScript e a ferramenta do p5.js.</li>
+      <li>Projeto de Desenvolvimento de Software Auxiliar na Didática do Ensino de Língua Portuguesa, IFRN Campus Macau</li>
+      <li>Projeto WEB de Carro Didático para a matéria de Programação para Internet, IFRN Campus Macau.</li>
+      <li>Projeto de Menu para jogo utilizando apenas JavaScript e a ferramenta do p5.js, UFRN Natal</li>
     </ul>
   </section>
   
   <section>
-    <h2>🌱 Sobre Mim</h2>
-    <p>Estou sempre em busca de novos desafios e oportunidades de aprendizado. Estou aberto para colaborações e adoro compartilhar conhecimento com outros desenvolvedores.</p>
+    <h2>🌱 Sobre Mim 🌱</h2>
+    <p>Um jovem admirador da Bioinformática, Biotecnologia, Análise e Desenvolvimento de dados, tentando sempre contribuir com seu conhecimento</p>
   </section>
   
   <section>
     <h2>📫 Entre em Contato</h2>
     <p>Email: gaofergabriel@gmail.com</p>
-    <p>LinkedIn: <a href="https://www.linkedin.com/in/gabriel-alves-9711632aa/">Gabriel Alves</a></p>
+    <p>LinkedIn: <a href="www.linkedin.com/in/alvesgabss">Gabriel Alves</a></p>
     <p>"Explore à vontade meus projetos e sinta-se encorajado a entrar em contato comigo para colaborações, dúvidas ou simplesmente para trocar algumas palavras! 🖥️</p>
   </section>
 </body>
