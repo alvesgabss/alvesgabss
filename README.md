@@ -7,7 +7,7 @@
 <body>
   <header>
     <h1>Gabriel Alves </h1>
-    <p>Um desenvolvedor de sistemas de soluções e contribuição para a ciência e tecnologia. Aqui é onde compartilho meus projetos, pensamentos e jornada de aprendizado.</p>
+    <p>Um desenvolvedor de sistemas de soluções e contribuição para a Ciência e Tecnologia. Aqui é onde compartilho meus projetos, pensamentos e jornada de aprendizado.</p>
   </header>
   
   <section>
@@ -30,7 +30,7 @@
   </section>
   
   <section>
-    <h2>📫 Entre em Contato</h2>
+    <h2>Entre em Contato</h2>
     <p>Email: gaofergabriel@gmail.com</p>
     <p>LinkedIn: <a href="www.linkedin.com/in/alvesgabss">Gabriel Alves</a></p>
     <p>"Explore à vontade meus projetos e sinta-se encorajado a entrar em contato comigo para colaborações, dúvidas ou simplesmente para trocar algumas palavras! 🖥️</p>
