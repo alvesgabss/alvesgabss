@@ -6,7 +6,7 @@
 </head>
 <body>
   <header>
-    <h1>Gabriel Alves! </h1>
+    <h1>Gabriel Alves </h1>
     <p>Um desenvolvedor de sistemas de soluções e contribuição para a ciência e tecnologia. Aqui é onde compartilho meus projetos, pensamentos e jornada de aprendizado.</p>
   </header>
   
