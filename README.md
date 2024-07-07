@@ -33,7 +33,7 @@
     <h2>Entre em Contato</h2>
     <p>Email: gaofergabriel@gmail.com</p>
     <p>LinkedIn: <a href="www.linkedin.com/in/alvesgabss">Gabriel Alves</a></p>
-    <p>"Explore à vontade meus projetos e sinta-se encorajado a entrar em contato comigo para colaborações, dúvidas ou simplesmente para trocar algumas palavras! 🖥️</p>
+    <p>"Explore à vontade meus projetos e sinta-se encorajado a entrar em contato comigo para colaborações, dúvidas ou simplesmente para trocar algumas palavras! </p>
   </section>
 </body>
 </html>
