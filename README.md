@@ -25,7 +25,7 @@
   </section>
   
   <section>
-    <h2>🌱 Sobre Mim 🌱</h2>
+    <h2> Sobre Mim </h2>
     <p>Um jovem admirador da Bioinformática, Biotecnologia e Análise e Desenvolvimento de dados, tentando sempre contribuir com seu conhecimento</p>
   </section>
   
