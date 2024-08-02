@@ -26,14 +26,14 @@
   
   <section>
     <h2> Sobre Mim </h2>
-    <p>Um jovem admirador da Bioinformática, Biotecnologia e Análise e Desenvolvimento de dados, tentando sempre contribuir com seu conhecimento</p>
+    <p>Um jovem admirador da Bioinformática, Biotecnologia e Análise e Desenvolvimento de dados, tentando sempre contribuir com seu conhecimento.</p>
   </section>
   
   <section>
     <h2>Entre em Contato</h2>
     <p>Email: gaofergabriel@gmail.com</p>
     <p>LinkedIn: <a href="www.linkedin.com/in/alvesgabss">Gabriel Alves</a></p>
-    <p>"Explore à vontade meus projetos e sinta-se encorajado a entrar em contato comigo para colaborações, dúvidas ou simplesmente para trocar algumas palavras! </p>
+    <p>Explore meus projetos e sinta-se vontade a entrar em contato comigo para dúvidas ou simplesmente para trocar algumas palavras! </p>
   </section>
 </body>
 </html>
