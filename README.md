@@ -7,7 +7,7 @@
 <body>
   <header>
     <h1>Gabriel Alves </h1>
-    <p>Um desenvolvedor de sistemas de soluções e contribuição para a Ciência e Tecnologia. Aqui é onde compartilho meus projetos, pensamentos e jornada de aprendizado.</p>
+    <p>Um desenvolvedor de sistemas de soluções e contribuição para a ciência e tecnologia. Aqui é onde compartilho meus projetos, pensamentos e jornada de aprendizado! :)</p>
   </header>
   
   <section>
@@ -26,7 +26,7 @@
   
   <section>
     <h2> Sobre Mim </h2>
-    <p>Um jovem admirador de Sistemas de Informação, Automação aplicada e Controle de dados tentando sempre contribuir com seu conhecimento.</p>
+    <p> Atualmente graduando em Engenharia Elétrica pela UFRN e formado como Técnico em Informática pelo IFRN. Possuo experiência de tutoria atuando em desenvolvimento de software didático para o IFRN, em 2023, e atuação técnica atuando como profissional de manutenção e correção de hardware no Híper Queiroz Ltda no mesmo ano. Jovem admirador de Ciência de Dados e Aplicação de Sistemas Físicos tentando sempre contribuir com seu conhecimento.</p>
   </section>
   
   <section>
