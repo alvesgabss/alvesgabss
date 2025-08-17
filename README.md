@@ -19,7 +19,6 @@ Busco sempre contribuir com meu conhecimento através de **pesquisa, trabalho e 
   <img alt="Gabriel-JS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img alt="Gabriel-Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Gabriel-C" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img alt="Gabriel-Cplusplus" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
 
 ---
