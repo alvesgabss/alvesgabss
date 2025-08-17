@@ -5,8 +5,7 @@
 
 ## Sobre
 Atualmente aluno da **UFRN**, graduando em **Engenharia Elétrica**, e formado como **Técnico em Informática** pelo IFRN.  
-Tenho experiência como **Operador de Computadores** no Híper Queiroz Ltda, onde atuei em manutenção, organização e correção de hardware.  
-No âmbito acadêmico e profissional, já desenvolvi projetos de **software didático** voltados para **auxílio estudantil** utilizando ferramentas de **Desenvolvimento Web**.   
+Tenho experiência como **Operador de Computadores** no Híper Queiroz Ltda, onde atuei em manutenção, organização e correção de hardware. No âmbito acadêmico e profissional, já desenvolvi projetos de **software didático** voltados para **auxílio estudantil** utilizando ferramentas de **Desenvolvimento Web**.   
 
 Busco sempre contribuir com meu conhecimento através de **pesquisa, trabalho e desenvolvimento**.
 
