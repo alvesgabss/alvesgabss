@@ -27,10 +27,10 @@ Busco sempre contribuir com meu conhecimento através de **pesquisa, trabalho e 
 ---
 
 ##  Áreas de Interesse
-- **Programação Científica.  
-- **Internet das Coisas (IoT).  
-- **Sistemas Físicos.  
-- **Interface de Sistemas.  
+- **Programação Científica**  
+- **Internet das Coisas (IoT)**  
+- **Sistemas Físicos**  
+- **Interface de Sistemas**  
 
 ---
 
