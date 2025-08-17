@@ -1,4 +1,4 @@
-<h1 align="center">Gabriel Alves!</h1>
+<h1 align="center">Gabriel Alves</h1>
 <h3 align="center">Engenharia Elétrica, UFRN | Técnico em Informática, IFRN </h3>
 
 ---
