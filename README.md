@@ -4,7 +4,7 @@
 ---
 
 ## Sobre
-Atualmente aluno da **UFRN** graduando em **Engenharia Elétrica** e formado como **Técnico em Informática** pelo IFRN. Tenho experiência profissional como **Operador de Computadores**, onde atuei em manutenção, organização e correção de hardware. No âmbito acadêmico atuei no desenvolvimento projetos de **software didático** voltados para **auxílio estudantil** utilizando ferramentas de **Desenvolvimento Web** e com pesquisas voltadas á área de **Ciências de Dados** e **Geração de Gráficos**.   
+Atualmente aluno da **UFRN** graduando em **Engenharia Elétrica** e formado como **Técnico em Informática** pelo IFRN. Tenho experiência profissional como **Operador de Computadores**, onde atuei em manutenção, organização e correção de hardware. No âmbito acadêmico atuei no desenvolvimento **software didático** voltados para **auxílio estudantil** utilizando ferramentas de **Desenvolvimento Web** e com pesquisas voltadas á área de **Ciências de Dados** e **Geração de Gráficos**.   
 
 Busco sempre contribuir com meu conhecimento através de **pesquisa, trabalho e desenvolvimento**.
 
