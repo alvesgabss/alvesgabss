@@ -24,10 +24,10 @@ Busco sempre contribuir com meu conhecimento através de **pesquisa, trabalho e 
 ---
 
 ##  Áreas de Interesse
-- **Inteligência Artificial**  
-- **Sistemas Autônomos**  
-- **Ciências de Dados**  
-- **Eletrônica**  
+- **Sistemas de Informação**
+- **Inteligência Artificial**   
+- **Eletrônica Aplicada**  
+- **Engenharia Física**  
 
 ---
 
